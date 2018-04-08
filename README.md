@@ -15,6 +15,17 @@
 - [x] Advanced SVG Animation
 - [x] React Native (feat. Redux)
 - [x] Creating an Open Source JavaScript Library on Github
+- [x] Lean Front-End Engineering
+- [x] Hardcore Functional Programming in JavaScript
+- [x] Introduction to Web Development
+- [x] Responsive Typography
+- [x] Asynchronous Programming in JavaScript (with Rx.js Observables)
+- [x] Scalable Modular Architecture for CSS (SMACSS)
+- [x] Responsive HTML Email Design
+- [x] The Good Parts of JavaScript and the Web
+- [x] Four Semesters of Computer Science in 5 Hours
+- [x] Mastering Chrome Developer Tools
+- [x] Elm
 
 ## Todo
 - [ ] Introduction to Bash, VIM & Regex
@@ -22,8 +33,6 @@
 - [ ] Progressive Web Applications and Offline
 - [ ] Networking and Streams
 - [ ] Complete Intro to React, v3 (feat. Redux, Router & Flow)
-- [ ] Responsive Typography
-- [ ] Scalable Modular Architecture for CSS (SMACSS)
 - [ ] CSS Grids and Flexbox for Responsive Web Design
 - [ ] Modern Search Engine Optimization (SEO)
 - [ ] Introduction to Data Visualization with d3.js v4
@@ -49,14 +58,5 @@
 - [ ] Code Robust APIs with the Hapi.js Server Framework for Node.js
 - [ ] Data Structures and Algorithms in JavaScript
 - [ ] Website Accessibility
-- [ ] Elm
-- [ ] Mastering Chrome Developer Tools
 - [ ] Motion Design with CSS
-- [ ] Four Semesters of Computer Science in 5 Hours
-- [ ] The Good Parts of JavaScript and the Web
-- [ ] Asynchronous Programming in JavaScript (with Rx.js Observables)
 - [ ] Introduction to JavaScript Programming
-- [ ] Responsive HTML Email Design
-- [ ] Introduction to Web Development
-- [ ] Hardcore Functional Programming in JavaScript
-- [ ] Lean Front-End Engineering
