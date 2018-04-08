@@ -26,9 +26,10 @@
 - [x] Four Semesters of Computer Science in 5 Hours
 - [x] Mastering Chrome Developer Tools
 - [x] Elm
+- [x] Introduction to Bash, VIM & Regex
+- [x] Introduction to JavaScript Programming
 
 ## Todo
-- [ ] Introduction to Bash, VIM & Regex
 - [ ] Advanced State Management in React (feat. Redux and MobX)
 - [ ] Progressive Web Applications and Offline
 - [ ] Networking and Streams
@@ -59,4 +60,3 @@
 - [ ] Data Structures and Algorithms in JavaScript
 - [ ] Website Accessibility
 - [ ] Motion Design with CSS
-- [ ] Introduction to JavaScript Programming
