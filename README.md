@@ -28,13 +28,12 @@
 - [x] Elm
 - [x] Introduction to Bash, VIM & Regex
 - [x] Introduction to JavaScript Programming
-
+- [x] Advanced State Management in React (feat. Redux and MobX)
+- [x] Progressive Web Applications and Offline
+- [x] Networking and Streams
+- [x] Complete Intro to React, v3 (feat. Redux, Router & Flow)
+- [x] CSS Grids and Flexbox for Responsive Web Design
 ## Todo
-- [ ] Advanced State Management in React (feat. Redux and MobX)
-- [ ] Progressive Web Applications and Offline
-- [ ] Networking and Streams
-- [ ] Complete Intro to React, v3 (feat. Redux, Router & Flow)
-- [ ] CSS Grids and Flexbox for Responsive Web Design
 - [ ] Modern Search Engine Optimization (SEO)
 - [ ] Introduction to Data Visualization with d3.js v4
 - [ ] Full Stack for Front End Engineers
