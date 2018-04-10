@@ -34,10 +34,10 @@
 - [x] Complete Intro to React, v3 (feat. Redux, Router & Flow)
 - [x] CSS Grids and Flexbox for Responsive Web Design
 - [x] Motion Design with CSS
+- [x] Introduction to Data Visualization with d3.js v4
 
 ## Todo
 - [ ] Modern Search Engine Optimization (SEO)
-- [ ] Introduction to Data Visualization with d3.js v4
 - [ ] Full Stack for Front End Engineers
 
 ## Ignored
