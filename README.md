@@ -33,6 +33,8 @@
 - [x] Networking and Streams
 - [x] Complete Intro to React, v3 (feat. Redux, Router & Flow)
 - [x] CSS Grids and Flexbox for Responsive Web Design
+- [x] Motion Design with CSS
+
 ## Todo
 - [ ] Modern Search Engine Optimization (SEO)
 - [ ] Introduction to Data Visualization with d3.js v4
@@ -58,4 +60,3 @@
 - [ ] Code Robust APIs with the Hapi.js Server Framework for Node.js
 - [ ] Data Structures and Algorithms in JavaScript
 - [ ] Website Accessibility
-- [ ] Motion Design with CSS
