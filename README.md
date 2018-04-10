@@ -43,6 +43,7 @@
 - [ ] Full Stack for Front-Ends Part 2
 - [ ] Four Semesters of Computer Science in 5 Hours, Part 2
 - [ ] Data Structures and Algorithms in JavaScript
+- [ ] SQL Fundamentals
 
 ## Ignored
 - [ ] Content Strategy
