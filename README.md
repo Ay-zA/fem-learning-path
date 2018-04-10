@@ -35,19 +35,20 @@
 - [x] CSS Grids and Flexbox for Responsive Web Design
 - [x] Motion Design with CSS
 - [x] Introduction to Data Visualization with d3.js v4
+- [x] CSS In-Depth, v2
 
 ## Todo
 - [ ] Modern Search Engine Optimization (SEO)
 - [ ] Full Stack for Front End Engineers
+- [ ] Full Stack for Front-Ends Part 2
+- [ ] Four Semesters of Computer Science in 5 Hours, Part 2
+- [ ] Data Structures and Algorithms in JavaScript
 
 ## Ignored
 - [ ] Content Strategy
 - [ ] Web Performance
-- [ ] Four Semesters of Computer Science in 5 Hours, Part 2
-- [ ] Full Stack for Front-Ends Part 2
 - [ ] Building Awesomer Apps with Angular
 - [ ] TypeScript Fundamentals
-- [ ] CSS In-Depth, v2
 - [ ] Advanced Vue.js Features from the Ground Up
 - [ ] Visual Studio Code
 - [ ] Web Security
@@ -58,5 +59,4 @@
 - [ ] Sass Fundamentals
 - [ ] Debugging and Fixing Common JavaScript Errors
 - [ ] Code Robust APIs with the Hapi.js Server Framework for Node.js
-- [ ] Data Structures and Algorithms in JavaScript
 - [ ] Website Accessibility
