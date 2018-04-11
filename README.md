@@ -36,28 +36,30 @@
 - [x] Motion Design with CSS
 - [x] Introduction to Data Visualization with d3.js v4
 - [x] CSS In-Depth, v2
+- [x] SQL Fundamentals
+- [x] Four Semesters of Computer Science in 5 Hours, Part 2
+- [x] Full Stack for Front End Engineers
+- [x] Full Stack for Front-Ends Part 2
+- [x] Data Structures and Algorithms in JavaScript
+- [x] Modern Search Engine Optimization (SEO)
+- [x] Website Accessibility
+- [x] Content Strategy
+- [x] Web Performance
+- [x] Web Security
+- [x] Introduction to Vue.js
+- [x] TypeScript Fundamentals
+- [x] Building Awesomer Apps with Angular
+- [x] Sass Fundamentals
+- [x] Visual Studio Code
+- [x] Advanced Vue.js Features from the Ground Up
+
 
 ## Todo
-- [ ] Modern Search Engine Optimization (SEO)
-- [ ] Full Stack for Front End Engineers
-- [ ] Full Stack for Front-Ends Part 2
-- [ ] Four Semesters of Computer Science in 5 Hours, Part 2
-- [ ] Data Structures and Algorithms in JavaScript
-- [ ] SQL Fundamentals
+### <span style="color:green">Surprise...! :)</span>
 
 ## Ignored
-- [ ] Content Strategy
-- [ ] Web Performance
-- [ ] Building Awesomer Apps with Angular
-- [ ] TypeScript Fundamentals
-- [ ] Advanced Vue.js Features from the Ground Up
-- [ ] Visual Studio Code
-- [ ] Web Security
-- [ ] Introduction to Vue.js
+- [ ] Code Robust APIs with the Hapi.js Server Framework for Node.js
 - [ ] Testing and Modular Front-End
 - [ ] LevelDB & Crypto
 - [ ] Code Transformation and Linting with ASTs
-- [ ] Sass Fundamentals
 - [ ] Debugging and Fixing Common JavaScript Errors
-- [ ] Code Robust APIs with the Hapi.js Server Framework for Node.js
-- [ ] Website Accessibility
