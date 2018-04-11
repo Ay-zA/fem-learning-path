@@ -52,7 +52,8 @@
 - [x] Sass Fundamentals
 - [x] Visual Studio Code
 - [x] Advanced Vue.js Features from the Ground Up
-
+- [x] LevelDB & Crypto
+- [x] Code Transformation and Linting with ASTs
 
 ## Todo
 ### <span style="color:green">Surprise...! :)</span>
@@ -60,6 +61,4 @@
 ## Ignored
 - [ ] Code Robust APIs with the Hapi.js Server Framework for Node.js
 - [ ] Testing and Modular Front-End
-- [ ] LevelDB & Crypto
-- [ ] Code Transformation and Linting with ASTs
 - [ ] Debugging and Fixing Common JavaScript Errors
